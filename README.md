@@ -1,4 +1,4 @@
-# 📊 Analiza rynku mieszkaniowego w Polsce (2010–2024)
+# 📊 Analiza rynku mieszkaniowego w Polsce (2010–2023)
 
 Interaktywny dashboard stworzony w Power BI prezentujący kluczowe informacje o rynku mieszkaniowym w Polsce.  
 Projekt ma na celu ułatwienie analizy sprzedaży mieszkań w ujęciu regionalnym i czasowym oraz identyfikację trendów.
@@ -54,7 +54,7 @@ Opracowanie własne na podstawie danych dostępnych na:
 ## 💡 Autor
 
 Projekt przygotowany przez **Dawid Genert**  
-Profil LinkedIn:(https://www.linkedin.com/in/dawid-genert-849374366)
+Profil LinkedIn: (https://www.linkedin.com/in/dawid-genert-849374366)
 
 ---
 
