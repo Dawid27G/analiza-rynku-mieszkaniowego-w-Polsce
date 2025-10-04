@@ -51,13 +51,6 @@ Opracowanie własne na podstawie danych dostępnych na:
 
 ---
 
-## 📜 Licencja
-
-Ten projekt jest udostępniony na zasadach licencji MIT (lub innej, jeśli chcesz).  
-Dane GUS objęte są warunkami licencji publicznej – proszę o wskazywanie źródła przy dalszym wykorzystaniu.
-
----
-
 ## 💡 Autor
 
 Projekt przygotowany przez **Dawid Genert**  
